@@ -18,7 +18,7 @@ import io
 class DataAnalyticsDashboard:
     def __init__(self, root):
         self.root = root
-        self.root.title("Group 10 Data Analytics")
+        self.root.title("Data Analytics")
         self.root.geometry("1800x780")
 
         self.file_path = None
